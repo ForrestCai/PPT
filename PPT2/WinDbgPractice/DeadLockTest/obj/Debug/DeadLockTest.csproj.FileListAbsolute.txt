@@ -1,0 +1,18 @@
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\bin\Debug\DeadLockTest.exe.config
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\bin\Debug\DeadLockTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\bin\Debug\DeadLockTest.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.Properties.Resources.resources
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.csproj.GenerateResource.Cache
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.Form1.resources
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\bin\Debug\DeadLockTest.exe.config
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.exe
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.pdb
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\bin\Debug\DeadLockTest.exe
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\bin\Debug\DeadLockTest.pdb
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.Form1.resources
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.Properties.Resources.resources
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DeadLockTest\obj\Debug\DeadLockTest.csproj.GenerateResource.Cache

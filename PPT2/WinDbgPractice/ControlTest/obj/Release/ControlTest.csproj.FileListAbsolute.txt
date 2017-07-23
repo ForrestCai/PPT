@@ -1,0 +1,6 @@
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\ControlTest\bin\Release\ControlTest.exe.config
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\ControlTest\bin\Release\ControlTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\ControlTest\bin\Release\ControlTest.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\ControlTest\obj\Release\ControlTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\ControlTest\obj\Release\ControlTest.pdb
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\ControlTest\obj\Release\ControlTest.csprojResolveAssemblyReference.cache

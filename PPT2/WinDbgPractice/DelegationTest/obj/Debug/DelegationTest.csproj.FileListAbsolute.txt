@@ -1,0 +1,20 @@
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\bin\Debug\DelegationTest.exe.config
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\bin\Debug\DelegationTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\bin\Debug\DelegationTest.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.Form1.resources
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.Properties.Resources.resources
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.UserControl1.resources
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.csproj.GenerateResource.Cache
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.pdb
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegateTest.Form1.resources
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegateTest.Properties.Resources.resources
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegationTest.csproj.GenerateResource.Cache
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegateTest.UserControl1.resources
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\bin\Debug\DelegateTest.exe.config
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\bin\Debug\DelegateTest.exe
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\bin\Debug\DelegateTest.pdb
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegateTest.exe
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\DelegationTest\obj\Debug\DelegateTest.pdb

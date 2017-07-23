@@ -1,0 +1,5 @@
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\CrachTest\bin\Debug\CrachTest.exe.config
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\CrachTest\bin\Debug\CrachTest.exe
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\CrachTest\bin\Debug\CrachTest.pdb
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\CrachTest\obj\Debug\CrachTest.exe
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\CrachTest\obj\Debug\CrachTest.pdb

@@ -1,0 +1,4 @@
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TestLibarary\bin\Release\TestLibarary.dll
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TestLibarary\bin\Release\TestLibarary.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TestLibarary\obj\Release\TestLibarary.dll
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TestLibarary\obj\Release\TestLibarary.pdb

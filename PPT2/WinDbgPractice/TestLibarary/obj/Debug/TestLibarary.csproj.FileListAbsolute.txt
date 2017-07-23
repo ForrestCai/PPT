@@ -1,0 +1,10 @@
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\TestLibarary\bin\Debug\TestLibarary.dll
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\TestLibarary\bin\Debug\TestLibarary.pdb
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\TestLibarary\obj\Debug\TestLibarary.dll
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\TestLibarary\obj\Debug\TestLibarary.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TestLibarary\obj\Debug\TestLibarary.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\TestLibarary\bin\Debug\TestLibarary.dll
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\TestLibarary\bin\Debug\TestLibarary.pdb
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\TestLibarary\obj\Debug\TestLibarary.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\TestLibarary\obj\Debug\TestLibarary.dll
+C:\Users\Forrest\Desktop\PPT2\WinDbgPractice\TestLibarary\obj\Debug\TestLibarary.pdb

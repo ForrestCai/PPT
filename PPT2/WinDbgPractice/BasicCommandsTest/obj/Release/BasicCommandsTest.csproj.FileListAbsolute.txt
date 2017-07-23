@@ -1,0 +1,14 @@
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\bin\Release\BasicCommandsTest.exe.config
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\bin\Release\BasicCommandsTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\bin\Release\BasicCommandsTest.pdb
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\obj\Release\BasicCommandsTest.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\obj\Release\BasicCommandsTest.exe
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\obj\Release\BasicCommandsTest.pdb
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\BasicCommandsTest\bin\Release\BasicCommandsTest.exe.config
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\BasicCommandsTest\obj\Release\BasicCommandsTest.exe
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\BasicCommandsTest\obj\Release\BasicCommandsTest.pdb
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\BasicCommandsTest\bin\Release\BasicCommandsTest.exe
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\BasicCommandsTest\bin\Release\BasicCommandsTest.pdb
+C:\Users\Forrest\Documents\Visual Studio 2012\Projects\WinDbgPractice\BasicCommandsTest\obj\Release\BasicCommandsTest.csprojResolveAssemblyReference.cache
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BasicCommandsTest\bin\Release\TestLibarary.dll
+C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BasicCommandsTest\bin\Release\TestLibarary.pdb
