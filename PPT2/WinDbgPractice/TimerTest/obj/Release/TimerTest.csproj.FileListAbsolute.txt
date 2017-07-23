@@ -1,6 +1,0 @@
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TimerTest\bin\Release\TimerTest.exe.config
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TimerTest\bin\Release\TimerTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TimerTest\bin\Release\TimerTest.pdb
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TimerTest\obj\Release\TimerTest.csprojResolveAssemblyReference.cache
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TimerTest\obj\Release\TimerTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\TimerTest\obj\Release\TimerTest.pdb

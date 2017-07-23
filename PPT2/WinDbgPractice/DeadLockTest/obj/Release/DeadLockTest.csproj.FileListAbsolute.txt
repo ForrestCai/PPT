@@ -1,9 +1,0 @@
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\bin\Release\DeadLockTest.exe.config
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\bin\Release\DeadLockTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\bin\Release\DeadLockTest.pdb
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Release\DeadLockTest.csprojResolveAssemblyReference.cache
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Release\DeadLockTest.Properties.Resources.resources
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Release\DeadLockTest.csproj.GenerateResource.Cache
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Release\DeadLockTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Release\DeadLockTest.pdb
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\DeadLockTest\obj\Release\DeadLockTest.Form1.resources

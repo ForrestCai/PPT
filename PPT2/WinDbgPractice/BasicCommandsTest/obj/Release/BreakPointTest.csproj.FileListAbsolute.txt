@@ -1,6 +1,0 @@
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\bin\Release\BreakPointTest.exe.config
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\bin\Release\BreakPointTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\bin\Release\BreakPointTest.pdb
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\obj\Release\BreakPointTest.csprojResolveAssemblyReference.cache
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\obj\Release\BreakPointTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\BreakPointTest\obj\Release\BreakPointTest.pdb

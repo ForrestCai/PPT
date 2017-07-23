@@ -1,5 +1,0 @@
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\CrachTest\bin\Release\CrachTest.exe.config
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\CrachTest\bin\Release\CrachTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\CrachTest\bin\Release\CrachTest.pdb
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\CrachTest\obj\Release\CrachTest.exe
-C:\Users\Forrest\documents\visual studio 2012\Projects\WinDbgPractice\CrachTest\obj\Release\CrachTest.pdb
