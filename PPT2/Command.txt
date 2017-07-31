@@ -3,3 +3,11 @@
 s -u 231836d0000 L7328192 "HelloWorld" 
 
 eu 00000231838b3f10 "HelloChina"
+
+
+x NOTEPAD!*
+
+
+x CrashTest!*
+
+
